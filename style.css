@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#head{
+    font-size: 5vw;
+    text-decoration:underline;
+}
+
+.header input{
+    padding: 0.6vw;
+    border-radius: 0.8vw;
+    background-color: pink;
+}
+
+.game #table{
+    margin: 6vw auto;
+    border-collapse: collapse;
+}
+
+.game td{
+    width: 8vw;
+    height: 8vw;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 5.3vw;
+    cursor: pointer;
+}
+
+
